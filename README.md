@@ -1,4 +1,4 @@
-Bike Sales Dashboard
+# Bike Sales Dashboard
 This repository contains an Excel dashboard that visualizes various aspects of bike sales data, focusing on customer demographics and purchasing behavior. The dashboard is designed to provide insights into the factors influencing bike purchases and to help identify potential market trends.
 
 Dashboard Overview
